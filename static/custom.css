@@ -1,9 +1,13 @@
 
+.main {
+    margin-left: 40px;
+}
+
 .gsc-input {
     padding: 5px 1px;
     width: 50%;
 }
 
-.text-center {
-    text-align: center;
-}
+#.text-center {
+#    text-align: center;
+#}
