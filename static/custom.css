@@ -1,8 +1,7 @@
 
-.gsc-input {
+input.gsc-input {
+    padding: 5px 1px;
     width: 50%;
-    height: 25;
-    align: center;
 }
 
 .text-center {
