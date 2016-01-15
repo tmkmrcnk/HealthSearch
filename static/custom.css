@@ -1,13 +1,20 @@
-
 .main {
-    margin-left: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 }
 
 .gsc-input {
-    padding: 5px 1px;
-    width: 50%;
+    padding: 6px 1px; width: 100%;
+    size: 20;
+    font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 }
 
-#.text-center {
-#    text-align: center;
-#}
+.gsc-result {
+    font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+    text-rendering: optimizeLegibility;
+}
